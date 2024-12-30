@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.nav-bar {
+    display: block;
+    height: 75px;
+}
+
+.nav-list {
+    display: flex;
+    margin-left: 105px;
+    height: 75px;
+}
+
+.logo>img {
+    width: 106px;
+    margin-top: 19px;
+    margin-left: 50px;
+}
+
+.list {
+    display: flex;
+    padding-left: 24px;
+    margin-top: 19.5px;
+    height: 36px;
+}
+
+.nav-list>.list>ul {
+    display: flex;
+    list-style-type: none;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+    color: #33383F;
+}
+
+.nav-list>.list>ul>li {
+    padding-top: 6.5px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.buttons-action {
+    display: flex;
+    margin-left: 418.58px;
+}
+
+.buttons-action>.sign {
+    padding-top: 7px;
+    padding-left: 0.42px;
+    width: 89px;
+}
+
+.buttons-action>.sign>span {
+    padding-top: 7px;
+    padding-left: 20px;
+    color: #0070A0;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+.buttons-action>.book {
+     margin-left: 11px;
+     padding-top: 7px;
+     width: 139px;
+     height: 36px;
+     background: #0070A0;
+     align-text: center;
+}
+
+.buttons-action>.book>span {
+     padding-left: 20px;
+     padding-top: 6px;
+     color: #FFFFFF;
+     font-family: Inter;
+     font-size: 15px;
+     font-weight: 400;
+     line-height: 24px;
+     letter-spacing: 0.20000000298023224px;
+     text-align: left;
+     text-underline-position: from-font;
+     text-decoration-skip-ink: none;
+}
+
+
+

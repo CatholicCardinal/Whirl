@@ -1,0 +1,51 @@
+.section2{
+    margin-top: 39.58px;
+    height: 96.81px;
+    margin-left: 105px;
+
+}
+
+.section2>.label1-conteiner {
+    margin-left: 432px;
+    padding-top: 0.42px;
+    width: 366px;
+    font-family: Inter;
+    font-size: 25.1px;
+    font-weight: 400;
+    line-height: 37.5px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #1F1F1F;
+}
+
+.section2>.label2-conteiner {
+    display: flex;
+    margin-left: 50px;
+    margin-top: 24px;
+    padding-left: 134px;
+}
+
+.section2>.label2-conteiner img{
+    margin-left: 61px;
+}
+
+.section2>.label2-conteiner>.picture1 {
+    height: 33px;
+    margin-left: 62px;
+}
+
+.section2>.label2-conteiner>.picture2 {
+    height: 27px;
+    margin-top: 3.5px;
+}
+
+.section2>.label2-conteiner>.picture3 {
+    height: 33px;
+}
+
+.section2>.label2-conteiner>.picture4 {
+    height: 34px;
+}
+

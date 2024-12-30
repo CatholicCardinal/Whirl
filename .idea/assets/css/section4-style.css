@@ -1,0 +1,113 @@
+.section4{
+    margin-top: 119.61px;
+    height: 694px;
+    background: #F7F9FA;
+    padding-top:80.39px;
+}
+
+.section4>.content-conteiner {
+    margin-left: 105px;
+    height: 534px;
+}
+
+.section4>.content-conteiner>p:first-of-type{
+    margin-left: 48.60px;
+    font-family: Fraunces;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 50.4px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #1F1F1F;
+}
+
+.section4>.content-conteiner>p:nth-of-type(2){
+    margin-left: 50px;
+    font-family: Fraunces;
+    font-size: 39px;
+    font-weight: 400;
+    line-height: 50.4px;
+    letter-spacing: 0.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #1F1F1F;
+}
+
+.section4>.content-conteiner>.content-box {
+    margin-top: 34px;
+    margin-left: 32px;
+    height: 400px;
+    width: 1166px;
+}
+
+.section4>.content-conteiner>.content-box>img{
+    float: right;
+    height: 479px;
+    position: relative;
+    bottom: 40px;
+    left: -60px;
+}
+
+.section4>.content-conteiner>.content-box>.text-bar{
+    padding-top: 27.5px;
+}
+
+.section4>.content-conteiner>.content-box>.text-bar p{
+    padding-left: 16px;
+    font-family: Fraunces;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 25.2px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #626A72;
+}
+
+.section4>.content-conteiner>.content-box>.text-bar>.element-bar:first-child {
+    height: 157px;
+}
+
+.section4>.content-conteiner>.content-box>.text-bar>.element-bar:first-child p{
+    color: #1F1F1F;
+}
+
+.section4>.content-conteiner>.content-box>.text-bar>.element-bar>.description {
+        padding-top: 17px;
+        padding-left: 50px;
+        font-family: Inter;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.20000000298023224px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+}
+
+.section4>.content-conteiner>.content-box>.text-bar>.element-bar img{
+    height: 32px;
+    width: 32px;
+}
+
+.section4>.content-conteiner>.content-box>.text-bar>.element-bar {
+    padding-top: 18px;
+    padding-left: 18px;
+    width: 450px;
+    height: 64px;
+    border-bottom: 1px solid #E0E0E0;
+    border-top: 1px solid #E0E0E0;
+    margin-bottom: 2px;
+}
+
+.section4>.content-conteiner>.content-box>.text-bar>.element-bar .description {
+
+}
+
+.section4 .vertical-element {
+    display: flex;
+}
