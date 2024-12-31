@@ -1,0 +1,102 @@
+.section9 {
+    margin-top: 80px;
+    margin-left: 105px;
+    height: 370px;
+    padding-left: 50px;
+}
+
+.section9>.content-conteiner {
+     height: 100%;
+     padding-left: 64px;
+     padding-top: 63.98px;
+     background: #E6F7FF;
+}
+
+.section9 .text-holder>p:first-of-type {
+    margin-top: 0px;
+    font-family: Fraunces;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 50.4px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #1F1F1F;
+}
+
+.section9 .text-holder>p {
+    margin-top: 20px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #1F1F1F;
+}
+
+.section9 .text-holder>p {
+    margin-top: 20px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #1F1F1F;
+}
+
+.section9 .text-holder>.button {
+    width: 174px;
+    height: 43px;
+    margin-top: 34px;
+    padding-top: 7.5px;
+    background: #0070A0;
+}
+
+.section9 .text-holder>.button>p {
+    font-family: Inter;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF;
+}
+
+.section9 .label-block {
+    display: flex;
+    margin-top: 12px;
+    padding-top: 8px;
+}
+.section9 .label {
+    display: flex;
+    margin-right: 35px;
+}
+
+.section9 img{
+    width: 13px;
+    height: 7px;
+    margin-top: 7px;
+    margin-left: 4px;
+    border: 1.6px 0px 0px 0px;
+}
+
+.section9 .label>p {
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #626A72;
+}

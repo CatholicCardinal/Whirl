@@ -1,0 +1,143 @@
+.section8 {
+    margin-top: 120px;
+    height: 747px;
+    background: #F7F9FA;
+    padding-left: 105px;
+    padding-top: 80px;
+
+}
+
+.section8>.content-conteiner {
+
+     width: 1230px;
+     height: 486.63px;
+     padding-left: 50px;
+}
+
+.section8 .text-conteiner>p:first-of-type {
+    font-family: Fraunces;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 50.4px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #1F1F1F;
+
+}
+
+.section8 .text-conteiner {
+    display: flex;
+    justify-content: space-between;
+    width: 1130px;
+    padding-right: 35px;
+}
+
+.section8 .text-conteiner>p:nth-of-type(2) {
+    margin-top: 14.64px;
+    font-family: Inter;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #0070A0;
+}
+
+.section8 .block-conteiner {
+     margin-top: 49.59px;
+     display: flex;
+}
+
+.section8 .block {
+    margin-right: 32px;
+    width: 355px;
+    height: 487px;
+    background: #FFFFFF;
+}
+
+.section8 img {
+    height: 238px;
+    width: 100%;
+}
+
+.section8 .label>p {
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.4000000059604645px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #2C90C9;
+}
+
+.section8 .label {
+    display: block-inline;
+    width: 122px;
+    height: 22px;
+    background: #E6F7FF;
+    margin-top: 21px;
+    padding-top: 2.5px;
+
+}
+
+.section8 .block:nth-child(2) .label
+{
+     width: 112px;
+}
+
+.section8 .block:nth-child(3) .label
+{
+     width: 60px;
+}
+
+.section8 .label,
+.section8 .block>p{
+    margin-left: 24px;
+}
+
+.section8 .block>p:first-of-type{
+    margin-top: 8px;
+    font-family: Fraunces;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 31.25px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #1F1F1F;
+}
+
+.section8 .block>p:nth-of-type(2){
+    margin-top: 13.5px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19.6px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #1F1F1F;
+}
+
+
+.section8 .block>p:nth-of-type(3){
+    margin-top: 11.5px;
+    color: #1F1F1F;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 19.6px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
